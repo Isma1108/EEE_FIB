@@ -20,7 +20,7 @@ Países Bajos y Luxemburgo.
 ### El fraude fiscal
 
 - Es necesario distinguir entre:
-	- **Infracción tributarua**: hacer algo no correcto respecto al pago de impuetos. Si Hacienda te pilla,
+	- **Infracción tributaria**: hacer algo no correcto respecto al pago de impuetos. Si Hacienda te pilla,
 		tendrás una penalización.	
 	- **Delito fiscal**: Si la cantidad de dinero que se esconde a Hacienda es superior a 120.000 euros 
 		la infracción se convierte en un delito fiscal. Es un delito grave y penal.
