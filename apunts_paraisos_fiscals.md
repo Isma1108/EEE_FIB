@@ -62,7 +62,7 @@ o paraísos fiscales.
 
 Pero, ¿cómo lo hacen?
 
-- **Pago de royalties** a una filial del grupo: se montan una empresa en una empresa en un paraíso fiscal, que tiene los derechos de propiedad del grupo. Las empresas del grupo, pagan royalties a esa empresa situada en el paraíso fiscal. Se disminuyen los beneficios de las empresas en territorios de alta fiscalidad.
+- **Pago de royalties** a una filial del grupo: se montan una empresa en un paraíso fiscal, que tiene los derechos de propiedad del grupo. Las empresas del grupo, pagan royalties a esa empresa situada en el paraíso fiscal. Se disminuyen los beneficios de las empresas en territorios de alta fiscalidad.
 - **Inflando** precios de las compras intragrupales: montan una empresa en un país de fiscalidad baja, y esa empresa és la que compra las materias primas a precio barato. Ésto se vende a precio muy caro a las demás empresas del grupo, de forma que la parte grande (o casi toda) de los beneficios se quedan en el paraíso fiscal. (por ejemplo, cuándo Apple decia que no tenia beneficios en España). 
 - Pagos por consultoría, estudios, asistencia: la empresa en el paraíso fiscal les cobra por esos motivos
 	a las demás empresas del grupo.
